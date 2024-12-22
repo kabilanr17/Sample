@@ -1,3 +1,6 @@
 hi machi my name is kabilan 
 this is a new repository 
+
+i worked in frontend
+
 and how is this
